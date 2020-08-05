@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_QLBHMALayout.cshtml";
+}
+
+<!-- Cart -->
+<section class="cart bgwhite p-t-70 p-b-100" id="cartContainer">
+    @Html.Partial("_IndexPartial")
+    <h4>@TempData["LoiDatHang"]</h4>
+</section>
+@section Scripts{
+
+    <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+}
+

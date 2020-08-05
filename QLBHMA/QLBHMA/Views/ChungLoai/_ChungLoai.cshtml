@@ -1,0 +1,42 @@
+﻿@model List<ChungLoai>
+<!-- Our product -->
+<section class="bgwhite p-t-45 p-b-58">
+    <div class="container">
+        <div class="sec-title p-b-22">
+            <h3 class="m-text5 t-center">
+                Our Products
+            </h3>
+        </div>
+
+        <!-- Tab01 -->
+        <div class="tab01">
+            <!-- Nav tabs -->
+            <ul class="nav nav-tabs" role="tablist">
+                @foreach (ChungLoai item in ViewBag.ChungLoai)
+                {
+                    <li class="nav-item">
+                        <a class="nav-link" data-toggle="tab" href="#@item.Ten" role="tab">@item.Ten</a>
+                    </li>
+                }
+            </ul>
+
+            <!-- Tab panes -->
+            <div class="tab-content p-t-35">
+                @foreach (ChungLoai item in ViewBag.ChungLoai)
+                {
+                    <div class="tab-pane fade show active" id="@item.Ten" role="tabpanel">
+                        <div class="row">
+                            @foreach (Loai loaiItem in item.Loais)
+                            {
+                                @Html.Action("_HangHoa", "HangHoa", new { id = loaiItem.ID })
+                            }
+                        </div>
+                    </div>
+                }
+
+            </div>
+        </div>
+    </div>
+</section>
+
+

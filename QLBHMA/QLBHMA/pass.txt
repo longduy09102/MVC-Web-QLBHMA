@@ -1,0 +1,16 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+Tên: Lê Duy Long
+Số điện thoại:0901373240
+Gmail: longduy09102@gmail.com
+
+
+longduy09102@gmail.com
+L@ngduy1
+</body>
+</html>

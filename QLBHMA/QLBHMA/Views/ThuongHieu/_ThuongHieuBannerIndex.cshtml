@@ -1,0 +1,26 @@
+﻿@model List<ThuongHieu>
+<!-- Banner -->
+<div class="banner bgwhite p-t-40 p-b-40">
+    <div class="container">
+        <div class="row">
+            @foreach (ThuongHieu item in Model)
+            {
+                <div class="col-sm-12 col-md-6 col-lg-3 m-l-r-auto">
+                    <!-- block1 -->
+                    <div class="block1 hov-img-zoom pos-relative m-b-30">
+                        <img src="~/images/ThuongHieu/@item.TenHinh" alt="IMG-BENNER" style="width:100%; height:500px">
+
+                        <div class="block1-wrapbtn w-size2">
+                            <!-- Button -->
+                            <a href="#" class="flex-c-m size2 m-text2 bg3 hov1 trans-0-4">
+                                @item.Ten
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+

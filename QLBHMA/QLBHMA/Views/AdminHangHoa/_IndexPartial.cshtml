@@ -1,0 +1,51 @@
+﻿
+@{ //C# code
+    WebGrid grid = null;
+    string errMsg = null;
+    try
+    {
+        grid = new WebGrid(source: Model, rowsPerPage: 5, ajaxUpdateContainerId: "containerUpdate");
+
+    }
+    catch (Exception ex)
+    {
+        errMsg = "Lỗi truy cập dữ liệu." + ex;
+    }
+}
+
+<div id="containerUpdate">
+    @if (errMsg != null)
+    {
+        <h4 class="text-danger">@errMsg</h4>
+    }
+    @if (grid != null)
+    {
+        string photoPath = Url.Content("~/images/SanPham");
+
+        @grid.GetHtml(
+            tableStyle: "table table-bordered table-hover",
+            headerStyle: "table-warning",
+            footerStyle: "table-warning text-center",
+            mode: WebGridPagerModes.All,
+            numericLinksCount:10,
+            firstText:"Trang đầu", lastText:"Trang cuối",
+            columns:grid.Columns(
+                grid.Column("ID",header:"ID"),
+                grid.Column("MaSo", header: "Mã số"),
+                grid.Column("Ten",header:"Tên hàng",
+                    format:item=>Html.ActionLink((string)item.Ten,"Details",new { id=item.ID})),
+                grid.Column("GiaBan",header:"Giá bán",style: "text-right",
+                    format:item=>item.GiaBan.ToString("#,##0")),
+                grid.Column("Loai.Ten", header: "Loại"),
+                grid.Column(format: item => Html.ActionLink("Sửa", "Edit", new { id=item.ID})),
+                grid.Column(format: item => Html.ActionLink("Xóa", "Delete", new { id = item.ID })),
+                 grid.Column(format: item => Html.ActionLink("Upload photo", "Upload", new { id = item.ID })),
+                grid.Column(format: item =>
+                    Html.Raw($"<img src='{photoPath}/{item.Hinhs[0]}' style='height:50px;width:50px' />"))
+                )
+        )
+    }
+</div>
+
+
+

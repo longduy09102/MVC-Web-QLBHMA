@@ -1,0 +1,50 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <title>@ViewBag.Title - Admin</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    @*Cho phep view chen noi dung neu co*@
+    @RenderSection("Styles", false)
+
+    <script src="~/Scripts/jquery-3.3.1.min.js"></script>
+
+</head>
+<body>
+   
+        <nav class="navbar navbar-expand-md bg-primary navbar-dark fixed-top">
+            <a class="navbar-brand" href="@Url.Action("Index","Admin")">Admin</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="collapsibleNavbar">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link" href="@Url.Action("Index","Home")">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="@Url.Action("Index","TestGetToken")">Login</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    
+    <br />
+ 
+    <div class="container mt-5">
+        @*Chen noi dung thiet ke chinh tung trang*@
+        @RenderBody()
+    </div>
+    <footer class="text-center bg-dark text-white">
+        &copy; @DateTime.Now.Year Cửa hàng máy ảnh
+    </footer>
+    <script src="~/Scripts/popper.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    @*Cho phep view chen noi dung neu co*@
+    @RenderSection("Scripts",false)
+</body>
+</html>

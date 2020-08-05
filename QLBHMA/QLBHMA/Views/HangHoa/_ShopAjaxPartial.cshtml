@@ -1,0 +1,92 @@
+﻿<div id="spContainer">
+    @using X.PagedList.Mvc;
+    @using X.PagedList;
+    @using X.PagedList.Mvc.Common;
+
+    <!-- Product -->
+    <div class="row">
+        @foreach (HangHoa hangHoaItem in ViewBag.OnePageOfData)
+        {
+            string lienKet = Url.Action("ChiTiet", "HangHoa", new { id = hangHoaItem.ID });
+            <div class="col-sm-12 col-md-6 col-lg-6 p-b-50">
+                <!-- Block2 -->
+                <div class="block2">
+                    <div class="block2-img wrap-pic-w of-hidden pos-relative block2-labelnew">
+                        <img src="~/images/SanPham/@hangHoaItem.Hinhs[0]" alt="IMG-PRODUCT">
+
+                        <div class="block2-overlay trans-0-4">
+                            <a href="#" class="block2-btn-addwishlist hov-pointer trans-0-4">
+                                <i class="icon-wishlist icon_heart_alt" aria-hidden="true"></i>
+                                <i class="icon-wishlist icon_heart dis-none" aria-hidden="true"></i>
+                            </a>
+
+                            <div class="block2-btn-addcart w-size1 trans-0-4">
+                                <!-- Button -->
+                                @Html.Partial("_AddToCartPartial", hangHoaItem.ID)
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="block2-txt p-t-20">
+                        <a href="@lienKet" class="block2-name dis-block s-text3 p-b-5">
+                            @hangHoaItem.Ten
+                        </a>
+
+                        <span class="block2-price m-text6 p-r-5">
+                            @hangHoaItem.GiaBan
+                        </span>
+                    </div>
+                </div>
+            </div>
+        }
+
+    </div>
+
+    <!-- Pagination -->
+    <div class="pagination flex-m flex-w p-t-26">
+        @{
+            var pageOfData = (IPagedList)ViewBag.OnePageOfData;
+        }
+        @{
+
+            if (pageOfData.TotalItemCount > 0)
+            {
+                if (ViewBag.LoaiId != null)
+                {
+                    @Html.PagedListPager((IPagedList)ViewBag.OnePageOfData, p => Url.Action("TraCuuTheoLoaiAjax", new { id = ViewBag.LoaiID, page = p }), PagedListRenderOptions.EnableUnobtrusiveAjaxReplacing(
+                   new PagedListRenderOptions//custom thanh phân trang
+                   {
+                       LiElementClasses = new string[] { "page-item" },
+                       PageClasses = new string[] { "page-link" }
+                   }, ajaxOptions: new AjaxOptions
+                   {
+
+                       UpdateTargetId = "spContainer",
+                       InsertionMode = InsertionMode.Replace,
+                       HttpMethod = "GET"
+                   }))
+                }
+                else
+                {
+                    @Html.PagedListPager((IPagedList)ViewBag.OnePageOfData, p => Url.Action("ShopAjax", new { page = p }),
+
+                                                 PagedListRenderOptions.EnableUnobtrusiveAjaxReplacing(
+                                                     new PagedListRenderOptions
+                                                     {
+                                                         LiElementClasses = new string[] { "page-item" },
+                                                         PageClasses = new string[] { "page-link" }
+                                                     }, ajaxOptions: new AjaxOptions
+                                                     {
+
+                                                         UpdateTargetId = "spContainer",
+                                                         InsertionMode = InsertionMode.Replace,
+                                                         HttpMethod = "GET"
+
+                                                     })
+                                                 )
+                }
+            }
+        }
+    </div>
+
+</div>

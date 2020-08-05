@@ -1,0 +1,14 @@
+﻿ 
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="container">
+    <h2>DANH SÁCH LOẠI</h2>
+    <p>
+        @Html.ActionLink("Thêm mới", "Create")
+    </p>
+
+    @Html.Partial("_IndexPartial")
+    </div>

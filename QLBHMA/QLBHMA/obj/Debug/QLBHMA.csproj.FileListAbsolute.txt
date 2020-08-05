@@ -1,0 +1,559 @@
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\QLBHMA.dll.config
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\QLBHMA.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\QLBHMA.pdb
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\csc.exe
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\csc.exe.config
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\csc.rsp
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\csi.exe
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\csi.exe.config
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\csi.rsp
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\System.AppContext.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\System.Console.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\System.IO.Compression.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\System.Net.Http.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\System.Net.Sockets.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\System.ValueTuple.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\System.Xml.XPath.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\vbc.exe
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\vbc.exe.config
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\vbc.rsp
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\VBCSCompiler.exe
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\Antlr3.Runtime.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\EntityFramework.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\EntityFramework.SqlServer.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\Microsoft.Owin.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\Newtonsoft.Json.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\Owin.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\System.Web.Helpers.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\System.Web.Mvc.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\System.Web.Optimization.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\System.Web.Razor.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\System.Web.WebPages.Deployment.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\System.Web.WebPages.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\System.Web.WebPages.Razor.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\WebGrease.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\System.Web.Helpers.xml
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\System.Web.Mvc.xml
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\System.Web.Optimization.xml
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\System.Web.Razor.xml
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\System.Web.WebPages.xml
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\System.Web.WebPages.Deployment.xml
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\System.Web.WebPages.Razor.xml
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\Newtonsoft.Json.xml
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\Antlr3.Runtime.pdb
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\EntityFramework.xml
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\EntityFramework.SqlServer.xml
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\Microsoft.Owin.xml
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.xml
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\obj\Debug\QLBHMA.csprojAssemblyReference.cache
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\obj\Debug\QLBHMA.csproj.CoreCompileInputs.cache
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\obj\Debug\QLBHMA.csproj.CopyComplete
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\obj\Debug\QLBHMA.dll
+C:\Users\longd\Desktop\DoAnWeb\New folder\QLBHMA\QLBHMA\obj\Debug\QLBHMA.pdb
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\QLBHMA.dll.config
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\QLBHMA.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\QLBHMA.pdb
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\csc.exe
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\csc.exe.config
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\csc.rsp
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\csi.exe
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\csi.exe.config
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\csi.rsp
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\System.AppContext.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\System.Console.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\System.IO.Compression.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\System.Net.Http.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\System.Net.Sockets.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\System.ValueTuple.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\System.Xml.XPath.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\vbc.exe
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\vbc.exe.config
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\vbc.rsp
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\VBCSCompiler.exe
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\Antlr3.Runtime.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\EntityFramework.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\EntityFramework.SqlServer.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\Microsoft.Owin.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\Newtonsoft.Json.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\Owin.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\System.Web.Helpers.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\System.Web.Mvc.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\System.Web.Optimization.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\System.Web.Razor.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\System.Web.WebPages.Deployment.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\System.Web.WebPages.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\System.Web.WebPages.Razor.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\WebGrease.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\EntityFramework.xml
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\EntityFramework.SqlServer.xml
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\Microsoft.Owin.xml
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.xml
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\Newtonsoft.Json.xml
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\System.Web.Helpers.xml
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\System.Web.Mvc.xml
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\System.Web.Optimization.xml
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\System.Web.Razor.xml
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\System.Web.WebPages.xml
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\System.Web.WebPages.Deployment.xml
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\System.Web.WebPages.Razor.xml
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\Antlr3.Runtime.pdb
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\obj\Debug\QLBHMA.csproj.CoreCompileInputs.cache
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\obj\Debug\QLBHMA.csproj.CopyComplete
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\obj\Debug\QLBHMA.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\obj\Debug\QLBHMA.pdb
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\System.Text.Encodings.Web.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\X.PagedList.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\X.PagedList.Mvc.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\X.PagedList.Web.Common.dll
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\bin\System.Text.Encodings.Web.xml
+C:\Users\longd\Desktop\DoAnWeb\QLBHMA\QLBHMA\obj\Debug\QLBHMA.csprojAssemblyReference.cache
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\QLBHMA.dll.config
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\QLBHMA.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\QLBHMA.pdb
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\csc.exe
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\csc.exe.config
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\csc.rsp
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\csi.exe
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\csi.exe.config
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\csi.rsp
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\System.AppContext.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\System.Console.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\System.IO.Compression.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\System.Net.Http.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\System.Net.Sockets.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\System.ValueTuple.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\System.Xml.XPath.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\vbc.exe
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\vbc.exe.config
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\vbc.rsp
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\VBCSCompiler.exe
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\Antlr3.Runtime.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\EntityFramework.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\EntityFramework.SqlServer.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\Microsoft.Owin.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\Newtonsoft.Json.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\Owin.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\System.Text.Encodings.Web.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\System.Web.Helpers.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\System.Web.Mvc.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\System.Web.Optimization.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\System.Web.Razor.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\System.Web.WebPages.Deployment.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\System.Web.WebPages.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\System.Web.WebPages.Razor.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\WebGrease.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\X.PagedList.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\X.PagedList.Mvc.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\X.PagedList.Web.Common.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\EntityFramework.xml
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\EntityFramework.SqlServer.xml
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\Microsoft.Owin.xml
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.xml
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\Newtonsoft.Json.xml
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\System.Text.Encodings.Web.xml
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\System.Web.Helpers.xml
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\System.Web.Mvc.xml
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\System.Web.Optimization.xml
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\System.Web.Razor.xml
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\System.Web.WebPages.xml
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\System.Web.WebPages.Deployment.xml
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\System.Web.WebPages.Razor.xml
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\Antlr3.Runtime.pdb
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\obj\Debug\QLBHMA.csprojAssemblyReference.cache
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\obj\Debug\QLBHMA.csproj.CoreCompileInputs.cache
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\obj\Debug\QLBHMA.csproj.CopyComplete
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\obj\Debug\QLBHMA.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\obj\Debug\QLBHMA.pdb
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\System.Net.Http.Extensions.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\System.Net.Http.Formatting.dll
+C:\Users\longd\Desktop\DoAnWeb\DoAn\QLBHMA\QLBHMA\bin\System.Net.Http.Primitives.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\QLBHMA.dll.config
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\QLBHMA.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\QLBHMA.pdb
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\csc.exe
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\csc.exe.config
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\csc.rsp
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\csi.exe
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\csi.exe.config
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\csi.rsp
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.AppContext.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Console.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.IO.Compression.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Net.Http.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Net.Sockets.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.ValueTuple.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Xml.XPath.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\vbc.exe
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\vbc.exe.config
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\vbc.rsp
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\VBCSCompiler.exe
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\Antlr3.Runtime.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\EntityFramework.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\EntityFramework.SqlServer.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\Microsoft.Owin.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\Newtonsoft.Json.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\Owin.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\System.Net.Http.Extensions.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\System.Net.Http.Formatting.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\System.Net.Http.Primitives.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\System.Text.Encodings.Web.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\System.Web.Helpers.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\System.Web.Mvc.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\System.Web.Optimization.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\System.Web.Razor.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\System.Web.WebPages.Deployment.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\System.Web.WebPages.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\System.Web.WebPages.Razor.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\WebGrease.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\X.PagedList.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\X.PagedList.Mvc.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\X.PagedList.Web.Common.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\EntityFramework.xml
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\EntityFramework.SqlServer.xml
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\Microsoft.Owin.xml
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.xml
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\Newtonsoft.Json.xml
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\System.Text.Encodings.Web.xml
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\System.Web.Helpers.xml
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\System.Web.Mvc.xml
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\System.Web.Optimization.xml
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\System.Web.Razor.xml
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\System.Web.WebPages.xml
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\System.Web.WebPages.Deployment.xml
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\System.Web.WebPages.Razor.xml
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\Antlr3.Runtime.pdb
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\obj\Debug\QLBHMA.csprojAssemblyReference.cache
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\obj\Debug\QLBHMA.csproj.CoreCompileInputs.cache
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\obj\Debug\QLBHMA.csproj.CopyComplete
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\obj\Debug\QLBHMA.dll
+C:\Users\longd\Desktop\NopBai\QLBHMA\QLBHMA\obj\Debug\QLBHMA.pdb
+D:\NopBai\QLBHMA\QLBHMA\bin\QLBHMA.dll.config
+D:\NopBai\QLBHMA\QLBHMA\bin\QLBHMA.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\QLBHMA.pdb
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\csc.exe
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\csc.exe.config
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\csc.rsp
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\csi.exe
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\csi.exe.config
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\csi.rsp
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\Microsoft.Managed.Core.targets
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.AppContext.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Collections.Immutable.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Console.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Globalization.Calendars.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.IO.Compression.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.IO.FileSystem.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Net.Http.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Net.Sockets.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Reflection.Metadata.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.ValueTuple.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Xml.XmlDocument.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Xml.XPath.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\vbc.exe
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\vbc.exe.config
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\vbc.rsp
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\VBCSCompiler.exe
+D:\NopBai\QLBHMA\QLBHMA\bin\roslyn\VBCSCompiler.exe.config
+D:\NopBai\QLBHMA\QLBHMA\bin\Antlr3.Runtime.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\EntityFramework.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\EntityFramework.SqlServer.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\Microsoft.AspNet.Identity.Core.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\Microsoft.Owin.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.Facebook.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.Google.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.OAuth.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.Twitter.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\Microsoft.Web.Infrastructure.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\Newtonsoft.Json.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\Owin.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\System.Net.Http.Extensions.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\System.Net.Http.Formatting.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\System.Net.Http.Primitives.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\System.Text.Encodings.Web.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\System.Web.Helpers.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\System.Web.Mvc.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\System.Web.Optimization.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\System.Web.Razor.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\System.Web.WebPages.Deployment.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\System.Web.WebPages.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\System.Web.WebPages.Razor.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\WebGrease.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\X.PagedList.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\X.PagedList.Mvc.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\X.PagedList.Web.Common.dll
+D:\NopBai\QLBHMA\QLBHMA\bin\EntityFramework.xml
+D:\NopBai\QLBHMA\QLBHMA\bin\EntityFramework.SqlServer.xml
+D:\NopBai\QLBHMA\QLBHMA\bin\Microsoft.Owin.xml
+D:\NopBai\QLBHMA\QLBHMA\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\NopBai\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.xml
+D:\NopBai\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.Facebook.xml
+D:\NopBai\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.Google.xml
+D:\NopBai\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\NopBai\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.OAuth.xml
+D:\NopBai\QLBHMA\QLBHMA\bin\Microsoft.Owin.Security.Twitter.xml
+D:\NopBai\QLBHMA\QLBHMA\bin\Newtonsoft.Json.xml
+D:\NopBai\QLBHMA\QLBHMA\bin\System.Text.Encodings.Web.xml
+D:\NopBai\QLBHMA\QLBHMA\bin\System.Web.Helpers.xml
+D:\NopBai\QLBHMA\QLBHMA\bin\System.Web.Mvc.xml
+D:\NopBai\QLBHMA\QLBHMA\bin\System.Web.Optimization.xml
+D:\NopBai\QLBHMA\QLBHMA\bin\System.Web.Razor.xml
+D:\NopBai\QLBHMA\QLBHMA\bin\System.Web.WebPages.xml
+D:\NopBai\QLBHMA\QLBHMA\bin\System.Web.WebPages.Deployment.xml
+D:\NopBai\QLBHMA\QLBHMA\bin\System.Web.WebPages.Razor.xml
+D:\NopBai\QLBHMA\QLBHMA\bin\Antlr3.Runtime.pdb
+D:\NopBai\QLBHMA\QLBHMA\bin\Microsoft.AspNet.Identity.Core.xml
+D:\NopBai\QLBHMA\QLBHMA\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\NopBai\QLBHMA\QLBHMA\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\NopBai\QLBHMA\QLBHMA\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\NopBai\QLBHMA\QLBHMA\obj\Debug\QLBHMA.csprojAssemblyReference.cache
+D:\NopBai\QLBHMA\QLBHMA\obj\Debug\QLBHMA.csproj.CoreCompileInputs.cache
+D:\NopBai\QLBHMA\QLBHMA\obj\Debug\QLBHMA.csproj.CopyComplete
+D:\NopBai\QLBHMA\QLBHMA\obj\Debug\QLBHMA.dll
+D:\NopBai\QLBHMA\QLBHMA\obj\Debug\QLBHMA.pdb
